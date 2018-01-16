@@ -1,7 +1,8 @@
-# auto-complete
+# auto-complete with drop-down and categories
 
-## IMPORTANT: NOT-MATAINED.
-Accepting volunteers and ready to transfer ownership.
+## This project is a fork of ng2-ui/auto-complete
+### This will only add a feature of having a fixed-size drop-down menu and have them
+### sorted by category
 
 <a href="https://rawgit.com/ng2-ui/auto-complete/master/app/index.html">
   <img src="http://i.imgur.com/dAmheg0.png" />
