@@ -38,17 +38,17 @@ _FormControl_ http://plnkr.co/edit/A5CW2e?p=preview
 
 ## Install
 
-1. install @ngui/auto-complete
+1. install @youssseeef/auto-complete-dropdown-categories
 
-        $ npm install @ngui/auto-complete --save
+        $ npm install @youssseeef/auto-complete-dropdown-categories --save
 
 2. add `map` and `packages` to your `systemjs.config.js` unless you are using `webpack`
 
-        map['@ngui/auto-complete'] = 'node_modules/@ngui/auto-complete/dist/auto-complete.umd.js';
+        map['@youssseeef/auto-complete-dropdown-categories'] = 'node_modules/@youssseeef/auto-complete-dropdown-categories/dist/auto-complete.umd.js';
 
 3. import NguiAutoCompleteModule to your AppModule
 
-        import { NguiAutoCompleteModule } from '@ngui/auto-complete';
+        import { NguiAutoCompleteModule } from '@youssseeef/auto-complete-dropdown-categories';
 
         @NgModule({
           imports: [BrowserModule, FormsModule, NguiAutoCompleteModule],
@@ -131,7 +131,7 @@ please send me email to `allenhwkim AT gmail.com` with your github id.
 
 ### To start
 
-    $ git clone https://github.com/ng2-ui/auto-complete.git
+    $ git clone https://github.com/youssseeef/auto-complete.git
     $ cd auto-complete
     $ npm install
     $ npm start
