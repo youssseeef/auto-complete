@@ -1,6 +1,6 @@
 {
     "name": "@youssseeef/auto-complete-dropdown-categories",
-    "version": "0.16.1",
+    "version": "0.0.1",
     "description": "Angular Input Autocomplete with drop-down and categories",
     "license": "MIT",
     "main": "dist/auto-complete.umd.js",
